@@ -7,7 +7,7 @@ The purpose of this analysis was to look at the passing rates of schools in term
 - When looking at one school and removing the ninth grade,  you find that the passing rates go up.
 ### How is the school summary affected?
 - The overall school average goes down because of the ninth grade.
--
+![alt text](https://github.com/kajev/School_District_Analysis/blob/main/Resources/top_and_bot_performing_schools.png)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - It makes the school more competitive with other schools
 ## Summary
